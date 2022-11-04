@@ -1,0 +1,8 @@
+C:\Users\Administrator\source\repos\Certification - Starting Algorithms\bin\Debug\Certification - Starting Algorithms.exe.config
+C:\Users\Administrator\source\repos\Certification - Starting Algorithms\bin\Debug\Certification - Starting Algorithms.exe
+C:\Users\Administrator\source\repos\Certification - Starting Algorithms\bin\Debug\Certification - Starting Algorithms.pdb
+C:\Users\Administrator\source\repos\Certification - Starting Algorithms\obj\Debug\Certification - Starting Algorithms.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Certification - Starting Algorithms\obj\Debug\Certification - Starting Algorithms.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\source\repos\Certification - Starting Algorithms\obj\Debug\Certification - Starting Algorithms.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Certification - Starting Algorithms\obj\Debug\Certification - Starting Algorithms.exe
+C:\Users\Administrator\source\repos\Certification - Starting Algorithms\obj\Debug\Certification - Starting Algorithms.pdb
